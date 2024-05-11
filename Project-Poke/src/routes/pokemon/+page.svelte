@@ -65,6 +65,7 @@
   }
 </script>
 
+<!-- Déburt de style  -->
 <style lang="css"> 
   h1 {
     font-family: 'Arial', sans-serif;
@@ -111,7 +112,6 @@
     justify-content: space-around;
     margin: 10px 0;
     width: 50%;
-    /* background-color: red; */
     left: 22.5%;
     position: relative;
     top: 20px;
@@ -139,6 +139,7 @@
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   }
 </style>
+<!-- Fin de style -->
 
 <h1>Liste des Pokémons</h1>
 
