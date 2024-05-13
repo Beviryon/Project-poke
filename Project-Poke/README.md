@@ -1,3 +1,16 @@
+Pourquoi avons-nous choisi Sveletkit et non Nuxtjs?
+Nous avons opté pour sveltekit en raison de ses nombreux avantages:
+
+        1 - Performances:
+        SvelteKit utilise une approche de rendu côté client très performante basée sur un système de composants réactifs. Cela permet d'obtenir des temps de chargement plus rapides et une expérience utilisateur fluide, particulièrement importante pour les applications web modernes.
+
+        2 - Empreinte mémoire réduite:
+        Le code généré par Svelte est très optimisé et léger, ce qui se traduit par une empreinte mémoire réduite. Cette caractéristique est avantageuse pour les appareils mobiles ou les connexions plus lentes.
+
+        3 - Courbe d'apprentissage abordable:
+        Bien que nouveau, le framework Svelte a une syntaxe simple et intuitive, facilitant son adoption par notre équipe. Sa documentation claire et ses exemples détaillés ont grandement accéléré notre montée en compétences.
+
+
 Ce projet est une application simple qui utilise Svelte pour afficher une liste de pokémons, permet la recherche et la navigation entre les pages. 
 
 Décortiquons le code étape par étape :
